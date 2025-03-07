@@ -159,7 +159,7 @@
             // 
             // btnAgregarVuelo
             // 
-            this.btnAgregarVuelo.Location = new System.Drawing.Point(321, 250);
+            this.btnAgregarVuelo.Location = new System.Drawing.Point(331, 250);
             this.btnAgregarVuelo.Name = "btnAgregarVuelo";
             this.btnAgregarVuelo.Size = new System.Drawing.Size(102, 40);
             this.btnAgregarVuelo.TabIndex = 13;

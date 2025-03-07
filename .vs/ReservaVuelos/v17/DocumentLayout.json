@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\isaiv\\source\\repos\\reservavuelos\\reservavuelos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|C:\\Users\\isaiv\\source\\repos\\ReservaVuelos\\reservavuelos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\isaiv\\source\\repos\\reservavuelos\\reservavuelos\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|C:\\Users\\isaiv\\source\\repos\\ReservaVuelos\\reservavuelos\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\isaiv\\source\\repos\\reservavuelos\\reservavuelos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|C:\\Users\\isaiv\\source\\repos\\ReservaVuelos\\reservavuelos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|c:\\users\\isaiv\\source\\repos\\reservavuelos\\reservavuelos\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|C:\\Users\\isaiv\\source\\repos\\ReservaVuelos\\reservavuelos\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8EAB4A8-F656-4D26-925F-1955007A484D}|ReservaVuelos\\ReservaVuelos.csproj|solutionrelative:reservavuelos\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -68,8 +68,7 @@
               "RelativeToolTip": "ReservaVuelos\\Reserva.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAMwAYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:21:34.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T03:21:34.937Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "ReservaVuelos\\Vuelo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:21:27.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T03:21:27.977Z"
             },
             {
               "$type": "Document",
