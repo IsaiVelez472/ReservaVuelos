@@ -1,0 +1,10 @@
+C:\Users\isaiv\source\repos\ReservaVuelos\ReservaVuelos\bin\Debug\ReservaVuelos.exe.config
+C:\Users\isaiv\source\repos\ReservaVuelos\ReservaVuelos\bin\Debug\ReservaVuelos.exe
+C:\Users\isaiv\source\repos\ReservaVuelos\ReservaVuelos\bin\Debug\ReservaVuelos.pdb
+C:\Users\isaiv\source\repos\ReservaVuelos\ReservaVuelos\obj\Debug\ReservaVuelos.csproj.AssemblyReference.cache
+C:\Users\isaiv\source\repos\ReservaVuelos\ReservaVuelos\obj\Debug\ReservaVuelos.Form1.resources
+C:\Users\isaiv\source\repos\ReservaVuelos\ReservaVuelos\obj\Debug\ReservaVuelos.Properties.Resources.resources
+C:\Users\isaiv\source\repos\ReservaVuelos\ReservaVuelos\obj\Debug\ReservaVuelos.csproj.GenerateResource.cache
+C:\Users\isaiv\source\repos\ReservaVuelos\ReservaVuelos\obj\Debug\ReservaVuelos.csproj.CoreCompileInputs.cache
+C:\Users\isaiv\source\repos\ReservaVuelos\ReservaVuelos\obj\Debug\ReservaVuelos.exe
+C:\Users\isaiv\source\repos\ReservaVuelos\ReservaVuelos\obj\Debug\ReservaVuelos.pdb
